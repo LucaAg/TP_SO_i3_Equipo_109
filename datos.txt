@@ -1,0 +1,14 @@
+GAMMA
+Nombre: Real Agustin.
+Hora: 12:52
+Ip: 192.168.0.14
+
+ALFA
+Nombre: Sanchez de Bustamante Tomas		
+Hora: 13:06	
+IP: 192.168.0.29
+
+BETA
+Nombre: Agnoli Luca Nahuel
+Hora: 20:27
+IP: 192.168.56.1
