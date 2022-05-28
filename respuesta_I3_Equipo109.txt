@@ -1,6 +1,11 @@
 BETA
 Nombre: Agnoli Luca.
 
+GAMMA
+Nombre: Real Agustin.
+
+Preguntas y respuestas:
+
 a-¿Como queda El master después de estos cambios?
 El master quedo actualizado con todos los datos de las ramas creadas anteriormente(Real y Agnoli).
 
@@ -12,3 +17,22 @@ Una vez creada la rama Agnoli, utilizamos los siguientes comandos:
 1-git checkout Master   (Nos paramos en master)
 2-git merge Agnoli      (Realizamos el merge para juntar la rama Agnoli a Master)
 3-git push              (Cargamos los datos correspondientes)
+
+d-¿Las ramas creadas por BETA y GAMMA quedan con datos actualizados?
+Solo quedan con los datos que cargamos con el merge.
+
+e-¿Detalle (explique) los problemas que tuvieron al hacer el merge?
+Los problemas que tuvimos fueron: 
+*No conociamos el comando.
+*Tuvimos que buscar informacion para utilizar el comando git merge.
+*Al momento que aplicamos el comando git merge, se nos abrio Vim.
+
+f-¿que debió hacer (todos los comandos) en el punto 7 para poder hacer lo pedido?
+
+Los comandos fueron los siguientes:
+1  git checkout Agnoli
+2  git pull
+3  ipconfig >> prueba.txt
+4  git add .
+5  git commit -m "GAMMA Modifica el archivo de BETA y agrega la info solicitada"
+6  git push
