@@ -1,0 +1,110 @@
+BETA
+Nombre: Agnoli Luca Nahuel
+Hora: 20:48
+
+
+Configuraci¢n IP de Windows
+
+
+Adaptador de Ethernet VirtualBox Host-Only Network:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::5904:9045:ac1f:cfad%10
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   Direcci¢n IPv6 . . . . . . . . . . : 2800:810:4fd:9878::1001
+   Direcci¢n IPv6 . . . . . . . . . . : 2800:810:4fd:9878:8d44:2f96:505b:6882
+   Direcci¢n IPv6 temporal. . . . . . : 2800:810:4fd:9878:14a7:a80e:7f12:4dc1
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::8d44:2f96:505b:6882%14
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.0.13
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::d257:94ff:fe6b:8191%14
+                                       192.168.0.1
+
+Adaptador de t£nel Teredo Tunneling Pseudo-Interface:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   Direcci¢n IPv6 . . . . . . . . . . : 2001:0:2877:7aa:3cca:cf94:4ad1:774f
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::3cca:cf94:4ad1:774f%11
+   Puerta de enlace predeterminada . . . . . : 
+
+GAMMA
+Nombre:Real Agustin
+Hora: 20:56
+Configuraci¢n IP de Windows
+
+
+Adaptador de Ethernet Ethernet 4:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : fibertel.com.ar
+
+Adaptador de Ethernet VirtualBox Host-Only Network:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::4d11:6259:f2d4:976c%11
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 
+
+Adaptador de LAN inal mbrica Conexi¢n de  rea local* 9:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+
+Adaptador de LAN inal mbrica Conexi¢n de  rea local* 10:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+
+Adaptador de LAN inal mbrica Wi-Fi 2:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::b8c6:67df:b5f4:6f7f%13
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.0.14
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 192.168.0.1
+
+ALFA
+Nombre: Sanchez de Bustamante Tomas
+Hora: 21:04
+
+
+Configuraci¢n IP de Windows
+
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : fibertel.com.ar
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::f991:8ac4:54d1:2bfc%14
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.0.29
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 192.168.0.1
+
+Adaptador de Ethernet VirtualBox Host-Only Network:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::ac5a:aab2:85c4:862c%8
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 
+
+Adaptador de LAN inal mbrica Wi-Fi:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+
+Adaptador de LAN inal mbrica Conexi¢n de  rea local* 1:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+
+Adaptador de LAN inal mbrica Conexi¢n de  rea local* 2:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
