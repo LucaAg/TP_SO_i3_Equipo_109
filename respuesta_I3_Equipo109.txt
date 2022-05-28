@@ -1,0 +1,14 @@
+BETA
+Nombre: Agnoli Luca.
+
+a-¿Como queda El master después de estos cambios?
+El master quedo actualizado con todos los datos de las ramas creadas anteriormente(Real y Agnoli).
+
+b-¿Beta pudo ver todos los cambios que se realizaron?
+Si, pude observar todos los cambios desde el github.
+
+c-¿que debió hacer (todos los comandos) en el punto 5 para poder hacer el merge ?
+Una vez creada la rama Agnoli, utilizamos los siguientes comandos:
+1-git checkout Master   (Nos paramos en master)
+2-git merge Agnoli      (Realizamos el merge para juntar la rama Agnoli a Master)
+3-git push              (Cargamos los datos correspondientes)
