@@ -1,3 +1,6 @@
+ALFA
+Nombre: Sanchez de Bustamante Tomas.
+
 BETA
 Nombre: Agnoli Luca.
 
@@ -35,4 +38,13 @@ Los comandos fueron los siguientes:
 3  ipconfig >> prueba.txt
 4  git add .
 5  git commit -m "GAMMA Modifica el archivo de BETA y agrega la info solicitada"
+6  git push
+
+G-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido?
+
+1  git checkout Agnoli
+2  git pull
+3  ipconfig >> prueba.txt
+4  git add .
+5  git commit -m "ALFA modifica el archivo beta.txt"
 6  git push
